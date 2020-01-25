@@ -1,0 +1,26 @@
+body {
+    background-color: #efeee7;
+    margin-left: 0;
+    padding: 0;
+  
+}
+
+h1 {
+    color: #efeee7;
+    background-color: black;
+    margin-left: 0;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.container {
+    width: 1500px;
+    margin: 0 auto;
+}
+
+#masthead,
+#main-container,
+#connect {
+    float: left;
+}
